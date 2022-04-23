@@ -35,7 +35,6 @@ div {
 .column2 {
     flex: 500%;
     padding: 50px;
-    text-align: center;
     background-color: pink;
     font-family: 'Courier New', Courier, monospace;
 }
