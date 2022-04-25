@@ -28,7 +28,7 @@ div {
 }
 
 .column {
-    flex: 10%;
+    flex: 1 1 auto;
     padding: 20px;
 }
 
